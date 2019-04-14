@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iupachayo.zotfile.com/sitemap.xml
